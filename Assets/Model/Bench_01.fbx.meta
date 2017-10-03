@@ -1,0 +1,219 @@
+fileFormatVersion: 2
+guid: 32ac639811f5a804a88cb3e4ba65710c
+timeCreated: 1507013994
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Bench_base
+    100004: Bench_wood_planks
+    100006: Bench_wood_planks_10
+    100008: Bench_wood_planks_11
+    100010: Bench_wood_planks_12
+    100012: Bench_wood_planks_13
+    100014: Bench_wood_planks_14
+    100016: Bench_wood_planks_15
+    100018: Bench_wood_planks_16
+    100020: Bench_wood_planks_17
+    100022: Bench_wood_planks_18
+    100024: Bench_wood_planks_19
+    100026: Bench_wood_planks_2
+    100028: Bench_wood_planks_20
+    100030: Bench_wood_planks_21
+    100032: Bench_wood_planks_22
+    100034: Bench_wood_planks_23
+    100036: Bench_wood_planks_24
+    100038: Bench_wood_planks_25
+    100040: Bench_wood_planks_26
+    100042: Bench_wood_planks_3
+    100044: Bench_wood_planks_4
+    100046: Bench_wood_planks_5
+    100048: Bench_wood_planks_6
+    100050: Bench_wood_planks_7
+    100052: Bench_wood_planks_8
+    100054: Bench_wood_planks_9
+    400000: //RootNode
+    400002: Bench_base
+    400004: Bench_wood_planks
+    400006: Bench_wood_planks_10
+    400008: Bench_wood_planks_11
+    400010: Bench_wood_planks_12
+    400012: Bench_wood_planks_13
+    400014: Bench_wood_planks_14
+    400016: Bench_wood_planks_15
+    400018: Bench_wood_planks_16
+    400020: Bench_wood_planks_17
+    400022: Bench_wood_planks_18
+    400024: Bench_wood_planks_19
+    400026: Bench_wood_planks_2
+    400028: Bench_wood_planks_20
+    400030: Bench_wood_planks_21
+    400032: Bench_wood_planks_22
+    400034: Bench_wood_planks_23
+    400036: Bench_wood_planks_24
+    400038: Bench_wood_planks_25
+    400040: Bench_wood_planks_26
+    400042: Bench_wood_planks_3
+    400044: Bench_wood_planks_4
+    400046: Bench_wood_planks_5
+    400048: Bench_wood_planks_6
+    400050: Bench_wood_planks_7
+    400052: Bench_wood_planks_8
+    400054: Bench_wood_planks_9
+    2300000: Bench_base
+    2300002: Bench_wood_planks
+    2300004: Bench_wood_planks_10
+    2300006: Bench_wood_planks_11
+    2300008: Bench_wood_planks_12
+    2300010: Bench_wood_planks_13
+    2300012: Bench_wood_planks_14
+    2300014: Bench_wood_planks_15
+    2300016: Bench_wood_planks_16
+    2300018: Bench_wood_planks_17
+    2300020: Bench_wood_planks_18
+    2300022: Bench_wood_planks_19
+    2300024: Bench_wood_planks_2
+    2300026: Bench_wood_planks_20
+    2300028: Bench_wood_planks_21
+    2300030: Bench_wood_planks_22
+    2300032: Bench_wood_planks_23
+    2300034: Bench_wood_planks_24
+    2300036: Bench_wood_planks_25
+    2300038: Bench_wood_planks_26
+    2300040: Bench_wood_planks_3
+    2300042: Bench_wood_planks_4
+    2300044: Bench_wood_planks_5
+    2300046: Bench_wood_planks_6
+    2300048: Bench_wood_planks_7
+    2300050: Bench_wood_planks_8
+    2300052: Bench_wood_planks_9
+    3300000: Bench_base
+    3300002: Bench_wood_planks
+    3300004: Bench_wood_planks_10
+    3300006: Bench_wood_planks_11
+    3300008: Bench_wood_planks_12
+    3300010: Bench_wood_planks_13
+    3300012: Bench_wood_planks_14
+    3300014: Bench_wood_planks_15
+    3300016: Bench_wood_planks_16
+    3300018: Bench_wood_planks_17
+    3300020: Bench_wood_planks_18
+    3300022: Bench_wood_planks_19
+    3300024: Bench_wood_planks_2
+    3300026: Bench_wood_planks_20
+    3300028: Bench_wood_planks_21
+    3300030: Bench_wood_planks_22
+    3300032: Bench_wood_planks_23
+    3300034: Bench_wood_planks_24
+    3300036: Bench_wood_planks_25
+    3300038: Bench_wood_planks_26
+    3300040: Bench_wood_planks_3
+    3300042: Bench_wood_planks_4
+    3300044: Bench_wood_planks_5
+    3300046: Bench_wood_planks_6
+    3300048: Bench_wood_planks_7
+    3300050: Bench_wood_planks_8
+    3300052: Bench_wood_planks_9
+    4300000: Bench_wood_planks
+    4300002: Bench_wood_planks_2
+    4300004: Bench_wood_planks_3
+    4300006: Bench_wood_planks_4
+    4300008: Bench_wood_planks_5
+    4300010: Bench_wood_planks_6
+    4300012: Bench_wood_planks_7
+    4300014: Bench_wood_planks_8
+    4300016: Bench_wood_planks_9
+    4300018: Bench_wood_planks_10
+    4300020: Bench_wood_planks_11
+    4300022: Bench_wood_planks_12
+    4300024: Bench_wood_planks_13
+    4300026: Bench_wood_planks_14
+    4300028: Bench_wood_planks_15
+    4300030: Bench_wood_planks_16
+    4300032: Bench_wood_planks_17
+    4300034: Bench_wood_planks_18
+    4300036: Bench_wood_planks_19
+    4300038: Bench_wood_planks_20
+    4300040: Bench_wood_planks_21
+    4300042: Bench_wood_planks_22
+    4300044: Bench_wood_planks_23
+    4300046: Bench_wood_planks_24
+    4300048: Bench_wood_planks_25
+    4300050: Bench_wood_planks_26
+    4300052: Bench_base
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
